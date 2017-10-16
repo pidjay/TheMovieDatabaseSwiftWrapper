@@ -28,12 +28,3 @@ Podfile.lock
 
 # Carthage
 Carthage
-
-
-### Xcode ###
-build
-*.xcodeproj/*
-!*.xcodeproj/project.pbxproj
-!*.xcworkspace/contents.xcworkspacedata
-*.xcworkspace/xcuserdata
-*.xcodeproj/xcuserdata
